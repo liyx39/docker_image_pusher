@@ -1,4 +1,1 @@
-calico/cni:master
-calico/node:master
-calico/kube-controllers:master
-calico/typha:master
+registry.k8s.io/pause:3.6
