@@ -1,3 +1,4 @@
-registry.k8s.io/metrics-server/metrics-server:v0.6.4
-docker.io/library/busybox:1.28
-nginx:latest
+docker.io/kubernetesui/dashboard-auth
+docker.io/kubernetesui/dashboard-api
+docker.io/kubernetesui/dashboard-web
+docker.io/kubernetesui/dashboard-metrics-scraper
