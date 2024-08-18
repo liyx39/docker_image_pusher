@@ -1,4 +1,2 @@
-docker.io/kubernetesui/dashboard-auth
-docker.io/kubernetesui/dashboard-api
-docker.io/kubernetesui/dashboard-web
-docker.io/kubernetesui/dashboard-metrics-scraper
+registry.k8s.io/ingress-nginx/controller:v1.9.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
