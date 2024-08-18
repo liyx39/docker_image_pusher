@@ -1,1 +1,1 @@
-coredns
+chart/coredns：1.31.0
