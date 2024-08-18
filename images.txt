@@ -1,2 +1,1 @@
-registry.k8s.io/ingress-nginx/controller:v1.9.0
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
+registry.k8s.io/chenby/defaultbackend-amd64:1.5
