@@ -1,1 +1,1 @@
-registry.k8s.io/chenby/defaultbackend-amd64:1.5
+dotbalo/elasticsearch:v7.10.2
