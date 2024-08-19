@@ -1,1 +1,1 @@
-elasticsearch:v7.10.2
+registry.cn-beijing.aliyuncs.com/dotbalo/elasticsearch:v7.10.2
