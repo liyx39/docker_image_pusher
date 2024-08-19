@@ -1,1 +1,1 @@
-dotbalo/elasticsearch:v7.10.2
+elasticsearch:v7.10.2
