@@ -1,1 +1,1 @@
-ghcr.io/jimmidyson/configmap-reload:v0.13.1
+registry.cn-beijing.aliyuncs.com/xngczl/nfs-subdir-external-provisione:v4.0.0
