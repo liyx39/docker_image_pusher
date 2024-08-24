@@ -1,1 +1,9 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/fluentd:v3.1.0
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0
+quay.mirrors.ustc.edu.cn/prometheus-operator/prometheus-config-reloader:v0.76.0
+quay.mirrors.ustc.edu.cn/prometheus-operator/prometheus-operator:v0.76.0
+quay.mirrors.ustc.edu.cn/brancz/kube-rbac-proxy:v0.18.0
+quay.mirrors.ustc.edu.cn/prometheus/alertmanager:v0.27.0
+quay.mirrors.ustc.edu.cn/prometheus/node-exporter:v1.8.2
+quay.mirrors.ustc.edu.cn/prometheus/prometheus:v2.54.0
+quay.mirrors.ustc.edu.cn/prometheus/blackbox-exporter:v0.25.0
