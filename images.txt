@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/dotbalo/jenkins:latest
+jenkins/jenkins:latest
