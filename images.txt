@@ -1,1 +1,1 @@
-jenkins/jenkins-jnlp:v1
+jenkins/jenkins-jnlp
