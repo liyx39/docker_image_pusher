@@ -1,1 +1,1 @@
-jenkins/jenkins-jnlp
+quay.io/external_storage/nfs-client-provisioner:latest
